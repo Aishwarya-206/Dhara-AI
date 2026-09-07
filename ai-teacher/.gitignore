@@ -1,9 +1,0 @@
-node_modules/
-dist/
-build/
-.env
-*.log
-backend/data/
-backend/data/uploads/*
-!backend/data/uploads/.gitkeep
-.DS_Store
